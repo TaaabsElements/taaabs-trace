@@ -1,0 +1,36 @@
+{
+  "name": "taaabs-trace",
+  "version": "1.0.0",
+  "description": "`<taaabs-trace>` is a set of Polymer Customs Elements to display some graphical representation of a KTBS Trace and features to interracts with traces.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-trace.git"
+  },
+  "main": "taaabs-trace.html",
+  "license": "https://github.com/TaaabsElements/taaabs-trace/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "taaabs-stylesheet-behavior": "https://github.com/TaaabsElements/taaabs-stylesheet-behavior.git",
+    "sparelnc": "https://github.com/liris-tweak/SPARE-LNC.git#v0.1.0",
+    "taaabs-stylesheet": "https://github.com/TaaabsElements/taaabs-stylesheet.git",
+    "taaabs-model": "https://github.com/TaaabsElements/taaabs-model.git",
+    "taaabs-trace-visualization": "https://github.com/TaaabsElements/taaabs-trace-visualization.git",
+    "paper-material": "PolymerElements/paper-material",
+		"paper-tabs": "PolymerElements/paper-tabs",
+    "paper-button": "PolymerElements/paper-button",
+    "iron-pages": "PolymerElements/iron-pages"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
